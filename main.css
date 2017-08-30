@@ -18,12 +18,9 @@ header h2 {
 	font-weight: 400;
 }
 
-main .row {
-  margin-bottom: 20px;
-}
-
 .box {
 	border: 1px solid lightgrey;
+	margin-bottom: 20px;
 }
 
 .col-4 img {
